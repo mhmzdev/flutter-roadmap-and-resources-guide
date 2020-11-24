@@ -15,7 +15,7 @@ Let's start with if you are beginner. But I will keep on adding stuff alongside 
 
 Starting a complete beginner if you are looking for some Udemy courses or YT playlist I would recommend you the following:
 
-- [Flutter Official Get Started Doc][flutter-get-started]
+- [Getting Started - Flutter Doc][flutter-get-started]
 - [Angela Yu Udemy Course][angela-yu-udemy]
 - [Net Ninja YT Playlist - Flutter for Beginners][net-ninja-playlist]
 
@@ -27,9 +27,28 @@ Now, you are done with the basics of flutter and its time to up your flutter gam
 - [Firebase Official Doc for Flutter][firebase-flutter-official]
 - [Net Ninja YT Playlist - Flutter & Firebase][net-ninja-firebase-plyalist]
 
+## 🎨 Responsive UI
 
+Till here you are a complete flutter developer who is very good with Flutter alongside at least very common database i.e Firebase. For Flutter apps it's your responsibility to make your apps responsive for various types of screen sizes. Hence, make sure to learn Responsive UI in Flutter and you can use the following to get you started:
+- [Responsive Apps - Flutter Doc][responsive-ui-official-doc]
+- [Medium Article][responsive-ui-article]
 
+## 🛠 State Management
 
+The next big thing you need to learn for Flutter is managing the state. There are a lot of State managment techniques that you can use. Following are few:
+ - [State Management - Flutter Doc][state-management-official-doc]
+ - [Providers][provider]
+ - [BloC][bloc]
+ - [Redux][redux]
+ - [MobX][mobx] and others.
+
+[responsive-ui-article]: https://medium.com/nonstopio/let-make-responsive-app-in-flutter-e48428795476
+[responsive-ui-official-doc]: https://flutter.dev/docs/development/ui/layout/responsive
+[provider]: https://pub.dev/packages/provider
+[bloc]: https://pub.dev/packages/bloc
+[redux]: https://pub.dev/packages/redux
+[mobx]: https://pub.dev/packages/mobx
+[state-management-official-doc]: https://flutter.dev/docs/development/data-and-backend/state-mgmt/options
 [data-backend-official-doc]: https://flutter.dev/docs/development/data-and-backend/firebase
 [flutter-get-started]: https://flutter.dev/docs/get-started/install
 [angela-yu-udemy]: https://www.udemy.com/course/flutter-bootcamp-with-dart/
