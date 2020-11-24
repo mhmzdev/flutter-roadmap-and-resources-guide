@@ -1,23 +1,48 @@
 <h1 style="text-align:center; font-size: 48px;">Flutter Roadmap & Resource Guide</h1>
 
-I will be sharing a simple roadmap and resources that I use personally for improving my flutter skills. You can obviously figure out your way of learning but here's mine 🙂
+I will be sharing a simple roadmap and resources that I use personally for improving my flutter skills. You can obviously figure out your way of learning but here's mine. I will keep on adding link from [Flutter Offical Docs][flutterdoc] so that you might get an idea how helpful Flutter official documentation is. 😃
 
-```
-🔴 Pre-req to flutter are OOP and Stack in Data structures is a plus!
-```
-
-**I will keep on adding link from [Flutter Offical Docs][flutterdoc] so that you might get an idea how helpful Flutter official documentation is.**
-
-## 👉 Flutter Basics
-
-Let's start with if you are beginner. But I will keep on adding stuff alongside which might be helpful for you.
 ### 🏃‍♂️ Let's Begin!
 
+Its more like a mix of Roadmap and Resource. So, that if you are a complete beginner you will have something to jump to :)
+
+## 🎯 Confusion Regarding Dart
+
+A lot of people think ask whether we need to learn **Dart** before starting flutter or not? My opinion is:
+
+- If you are new programmer, you must 
+
+<p style="text-align:center;">
+<img align="center" height=300 src="https://user-images.githubusercontent.com/43790152/100061086-58ada080-2e4f-11eb-9961-12234545b333.png" >
+</p>
+
+## 💻 Which IDE is BEST!?
+
+I have seen a lot of beginners confused between which IDE to choose for Flutter development. Well, here is my suggestion for you.
+- If you have a **High End** machine **(at least SSD & 8GB RAM)** then you can go for [Android Studio][android-studio-setup-official-docs] and feel free to use Emulator Alongside.
+- If you have a **Low End** machine **(at least 4GB RAM)** then you can go for [VS Code][vscode-setup-official-docs] and you **Cannot User Emulator** because it will slows down your system if you opened even a single tab of Chrome for searching some errors.
+
+
+<p style="text-align:center;">
+<img align="center" height=300 src="https://user-images.githubusercontent.com/43790152/100060669-ad045080-2e4e-11eb-8e43-c219b17141e2.png" >
+</p>
+
+🔴 **Suggestion**:
+
+I would **strongly recommend** you to **download Android Studio** even if you are not planning to use it. WHY? Well because it will get you a lot of stuff like Android Gradle, Android SDKs, Android Emulators etc built-in. Otherwise, you will need to download them manually and set each one of them. And Believe me, its pain in the ass!
+
+
+## 👨‍🏫 Flutter Basics
 Starting a complete beginner if you are looking for some Udemy courses or YT playlist I would recommend you the following:
 
 - [Getting Started - Flutter Doc][flutter-get-started]
 - [Angela Yu Udemy Course][angela-yu-udemy]
 - [Net Ninja YT Playlist - Flutter for Beginners][net-ninja-playlist]
+
+After this, you must have the knowledge as shown below:
+<p style="text-align:center;">
+<img align="center" height=300 src="https://user-images.githubusercontent.com/43790152/100061598-1afd4780-2e50-11eb-820f-66b4a79311d3.png" >
+</p>
 
 ## 💾 Database
 
@@ -31,7 +56,9 @@ Now, you are done with the basics of flutter and its time to up your flutter gam
 
 Till here you are a complete flutter developer who is very good with Flutter alongside at least very common database i.e Firebase. For Flutter apps it's your responsibility to make your apps responsive for various types of screen sizes. Hence, make sure to learn Responsive UI in Flutter and you can use the following to get you started:
 - [Responsive Apps - Flutter Doc][responsive-ui-official-doc]
+- [Responsive UI Setup - YT][responsive-ui-setup-yt]
 - [Medium Article][responsive-ui-article]
+
 
 ## 🛠 State Management
 
@@ -42,6 +69,10 @@ The next big thing you need to learn for Flutter is managing the state. There ar
  - [Redux][redux]
  - [MobX][mobx] and others.
 
+
+[vscode-setup-official-docs]: https://flutter.dev/docs/get-started/editor?tab=vscode
+[android-studio-setup-official-docs]: https://flutter.dev/docs/get-started/editor
+[responsive-ui-setup-yt]: https://www.youtube.com/watch?v=z7P1OFLw4kY&ab_channel=FilledStacks
 [responsive-ui-article]: https://medium.com/nonstopio/let-make-responsive-app-in-flutter-e48428795476
 [responsive-ui-official-doc]: https://flutter.dev/docs/development/ui/layout/responsive
 [provider]: https://pub.dev/packages/provider
