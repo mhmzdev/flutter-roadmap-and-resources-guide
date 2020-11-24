@@ -5,6 +5,9 @@ I will be sharing a simple roadmap and resources that I use personally for impro
 ```
 🔴 Pre-req to flutter are OOP and Stack in Data structures is a plus!
 ```
+
+**I will keep on adding link from [Flutter Offical Docs][flutterdoc] so that you might get an idea how helpful Flutter official documentation is.**
+
 ## 👉 Flutter Basics
 
 Let's start with if you are beginner. But I will keep on adding stuff alongside which might be helpful for you.
@@ -12,6 +15,7 @@ Let's start with if you are beginner. But I will keep on adding stuff alongside 
 
 Starting a complete beginner if you are looking for some Udemy courses or YT playlist I would recommend you the following:
 
+- [Flutter Official Get Started Doc][flutter-get-started]
 - [Angela Yu Udemy Course][angela-yu-udemy]
 - [Net Ninja YT Playlist - Flutter for Beginners][net-ninja-playlist]
 
@@ -19,14 +23,15 @@ Starting a complete beginner if you are looking for some Udemy courses or YT pla
 
 Now, you are done with the basics of flutter and its time to up your flutter game. Let's start with some **Database**. For flutter, I would recommend you to start with **Firebase**. You can use the following resources depending on which helps you to learn stuff faster:
 
+- [Firebase with Flutter - Flutter Doc][data-backend-official-doc]
 - [Firebase Official Doc for Flutter][firebase-flutter-official]
 - [Net Ninja YT Playlist - Flutter & Firebase][net-ninja-firebase-plyalist]
 
 
 
 
-
-
+[data-backend-official-doc]: https://flutter.dev/docs/development/data-and-backend/firebase
+[flutter-get-started]: https://flutter.dev/docs/get-started/install
 [angela-yu-udemy]: https://www.udemy.com/course/flutter-bootcamp-with-dart/
 [net-ninja-playlist]: https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&ab_channel=TheNetNinja
 [net-ninja-firebase-plyalist]: https://www.youtube.com/watch?v=sfA3NWDBPZ4&list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC&ab_channel=TheNetNinjaTheNetNinjaVerified
