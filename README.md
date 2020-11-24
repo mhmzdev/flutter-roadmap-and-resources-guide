@@ -53,7 +53,7 @@ Now, you are done with the basics of flutter and its time to up your flutter gam
 - [Firebase Official Doc for Flutter][firebase-flutter-official]
 - [Net Ninja YT Playlist - Flutter & Firebase][net-ninja-firebase-plyalist]
 
-But What if your client asks you store data locally? No problemo! You can learn [SQFlite][sqflite-flutter-pkg] quite similar to *sqlite*.
+But What if your client asks you store data locally? No problemo! You can learn **[SQFlite][sqflite-flutter-pkg]** quite similar to *sqlite*.
 <p align="center">
 <img height=300 src="https://user-images.githubusercontent.com/43790152/100063113-7defde00-2e52-11eb-80b2-a9d2e79b21a2.png" >
 </div>
@@ -106,7 +106,7 @@ The next big thing you need to learn for Flutter is managing the state. There ar
 [networking-official-doc]: https://flutter.dev/docs/development/data-and-backend/networkings
 [send-data-official-doc]: https://flutter.dev/docs/cookbook/networking/send-data
 [fetch-data-official-doc]: https://flutter.dev/docs/cookbook/networking/fetch-data
-[sqflite-flutter-pkg]: [https://pub.dev/packages/sqflite]
+[sqflite-flutter-pkg]: https://pub.dev/packages/sqflite
 [vscode-setup-official-docs]: https://flutter.dev/docs/get-started/editor?tab=vscode
 [android-studio-setup-official-docs]: https://flutter.dev/docs/get-started/editor
 [responsive-ui-setup-yt]: https://www.youtube.com/watch?v=z7P1OFLw4kY&ab_channel=FilledStacks
