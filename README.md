@@ -10,11 +10,12 @@ Its more like a mix of Roadmap and Resource. So, that if you are a complete begi
 
 A lot of people think ask whether we need to learn **Dart** before starting flutter or not? My opinion is:
 
-- If you are new programmer, you must 
+- If you are new programmer, you must the knowledge of OOP and Stack in Data structure will be a plus!
+- Otherwise, there is no need to learn Dart specifically its quite similar to Java/C++/C# so you will keep getting it on the way :)
 
-<p style="text-align:center;">
+<div style="text-align:center;">
 <img align="center" height=300 src="https://user-images.githubusercontent.com/43790152/100061086-58ada080-2e4f-11eb-9961-12234545b333.png" >
-</p>
+</div>
 
 ## 💻 Which IDE is BEST!?
 
@@ -23,9 +24,9 @@ I have seen a lot of beginners confused between which IDE to choose for Flutter 
 - If you have a **Low End** machine **(at least 4GB RAM)** then you can go for [VS Code][vscode-setup-official-docs] and you **Cannot User Emulator** because it will slows down your system if you opened even a single tab of Chrome for searching some errors.
 
 
-<p style="text-align:center;">
+<div style="text-align:center;">
 <img align="center" height=300 src="https://user-images.githubusercontent.com/43790152/100060669-ad045080-2e4e-11eb-8e43-c219b17141e2.png" >
-</p>
+</div>
 
 🔴 **Suggestion**:
 
@@ -40,9 +41,9 @@ Starting a complete beginner if you are looking for some Udemy courses or YT pla
 - [Net Ninja YT Playlist - Flutter for Beginners][net-ninja-playlist]
 
 After this, you must have the knowledge as shown below:
-<p style="text-align:center;">
+<div style="text-align:center;">
 <img align="center" height=300 src="https://user-images.githubusercontent.com/43790152/100061598-1afd4780-2e50-11eb-820f-66b4a79311d3.png" >
-</p>
+</div>
 
 ## 💾 Database
 
