@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 48px;"><h1>🗺 Flutter Roadmap & Resource Guide</h1></p>
+<p align="center" style="font-size: 48px;">🗺 Flutter Roadmap & Resource Guide</p>
 
 I will be sharing a simple roadmap and resources that I use personally for improving my flutter skills. You can obviously figure out your way of learning but here's mine. I will keep on adding link from [Flutter Offical Docs][flutterdoc] so that you might get an idea how helpful Flutter official documentation is. 😃
 
@@ -43,7 +43,7 @@ Starting a complete beginner if you are looking for some Udemy courses or YT pla
 After this, you must have the knowledge as shown below:
 <p align="center">
 <img height=300 src="https://user-images.githubusercontent.com/43790152/100061598-1afd4780-2e50-11eb-820f-66b4a79311d3.png" >
-</div>
+</p>
 
 ## 💾 Database
 
@@ -56,7 +56,7 @@ Now, you are done with the basics of flutter and its time to up your flutter gam
 But What if your client asks you store data locally? No problemo! You can learn **[SQFlite][sqflite-flutter-pkg]** quite similar to *sqlite*.
 <p align="center">
 <img height=300 src="https://user-images.githubusercontent.com/43790152/100063113-7defde00-2e52-11eb-80b2-a9d2e79b21a2.png" >
-</div>
+</p>
 
 ## 🎨 Responsive UI
 
@@ -78,15 +78,16 @@ If you are at this stage altough you can develop apps with beautiful responsive 
 - jSON Data Parsing
   - [Parsing Complex jSON - Medium Article][json-medium-article]
 
+<p align="center">
+<img height=300 src="https://user-images.githubusercontent.com/43790152/100063536-30c03c00-2e53-11eb-9954-ac65b7ad9893.png" >
+</p>
+
 📱 Apps you can try:
   - [COVID-19 Tracker][covid19-app]
   - [The Holy Qur'an App][holy-quran-app]
   - [Music App - Article][music-app]
   - [News App][news-app]
 
-<p align="center">
-<img height=300 src="https://user-images.githubusercontent.com/43790152/100063536-30c03c00-2e53-11eb-9954-ac65b7ad9893.png" >
-</div>
 
 ## 🛠 State Management
 
@@ -96,6 +97,20 @@ The next big thing you need to learn for Flutter is managing the state. There ar
  - [BloC][bloc]
  - [Redux][redux]
  - [MobX][mobx] and others.
+
+## 📱 Store Knowledge
+
+Since you are a cross-platform app developer now, you must know about the guidelines of uploading an app to App Store and Google Play store. So, make sure to get knowledge about uploading an app accordingly.
+
+<p align="center">
+<img height=300 src="https://user-images.githubusercontent.com/43790152/100070839-34a48c00-2e5c-11eb-8538-0ed74dc7d697.png" >
+</p>
+
+## 🤔 What's Next?
+
+Learning never ends! Keep learning with resources, keep exploring, keep sharing your apps and projects with others to get reviews and help. And always remember:
+
+<p align="center" style="font-size: 32px; text-align: center;">"Achivements Don't Speak themselves!"</p>
 
 [covid19-app]: https://github.com/m-hamzashakeel/Covid19-Tracker-App
 [holy-quran-app]: https://github.com/m-hamzashakeel/The_Holy_Quran_App
