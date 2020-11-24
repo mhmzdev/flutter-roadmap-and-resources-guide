@@ -1,5 +1,4 @@
-<p align="center" style="font-size: 48px;">🗺 Flutter Roadmap & Resource Guide</p>
-<p align="center" style="font-size: 32px; text-align: center;">Flutter Roadmap & Resource Guide</p>
+<h1 align="center" style="font-size: 48px;">🗺 Flutter Roadmap & Resource Guide</h1>
 
 I will be sharing a simple roadmap and resources that I use personally for improving my flutter skills. You can obviously figure out your way of learning but here's mine. I will keep on adding link from [Flutter Offical Docs][flutterdoc] so that you might get an idea how helpful Flutter official documentation is. 😃
 
