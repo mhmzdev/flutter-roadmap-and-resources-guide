@@ -113,7 +113,7 @@ Learning never ends! Keep learning with resources, keep exploring, keep sharing 
 <p align="center" style="font-size: 36px; text-align: center;"><i>"Achivements Don't Speak themselves!"</i></p>
 
 - Get yourself a Nice looking [GitHub profile][github-profile] and showcase your project with proper documentation. This shows other people who are looking for developers that you are serious about your work and career. Get a nice GitHub Readme for you. [Here's mine][github-readme], you can use it and customize it for yourself 😊
-- Same goes for having a Nice looking [LinkedIn profile][linkedin-profile] and make connection. This will keep you going and you will get numerous oppurtunity on the way!
+- Same goes for having a Nice looking [LinkedIn profile][linkedin-profile] and make connection. This will keep you going and you will get numerous opportunity on the way!
 - Another good way to present yourself will be having a [live resume][live-resume]. Ask your friend to get you simple one.
 
 ## 📃 Other Resources
@@ -139,7 +139,7 @@ Below are the resources which you can use to expand you Flutter knowledge and re
   - [Fun with Flutter][funWithFlutter-yt]
   - [MTECHVIRAL][mtechviral-yt]
   - [Easy Approach][easyapproach-yt]
-  - [Net Ninja][net-ninja-firebase-plyalist]
+  - [Net Ninja][net-ninja-playlist]
 
 ## Make sure to 🌟 the Repo!
 
