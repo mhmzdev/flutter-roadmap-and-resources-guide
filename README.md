@@ -53,6 +53,11 @@ Now, you are done with the basics of flutter and its time to up your flutter gam
 - [Firebase Official Doc for Flutter][firebase-flutter-official]
 - [Net Ninja YT Playlist - Flutter & Firebase][net-ninja-firebase-plyalist]
 
+But What if your client asks you store data locally? No problemo! You can learn **[SQFlite][sqflite-flutter-pkg]** quite similart to *sqlite*.
+<p align="center">
+<img height=300 src="https://user-images.githubusercontent.com/43790152/100063113-7defde00-2e52-11eb-80b2-a9d2e79b21a2.png" >
+</div>
+
 ## 🎨 Responsive UI
 
 Till here you are a complete flutter developer who is very good with Flutter alongside at least very common database i.e Firebase. For Flutter apps it's your responsibility to make your apps responsive for various types of screen sizes. Hence, make sure to learn Responsive UI in Flutter and you can use the following to get you started:
@@ -60,6 +65,28 @@ Till here you are a complete flutter developer who is very good with Flutter alo
 - [Responsive UI Setup - YT][responsive-ui-setup-yt]
 - [Medium Article][responsive-ui-article]
 
+## 🌐 Networking
+
+If you are at this stage altough you can develop apps with beautiful responsive UI alongside database. But, you need to keep learning more and more stuff so that you can manage data otherway around. For that, make sure to learn **RESTful API** and **jSON Data**. In case you are a good with socket programming you can learn that but that's optional here :)
+
+- Networking in Flutter
+  - [Networking - Official Doc][networking-official-doc]
+  - [Send Data to Internet - Official Doc][send-data-official-doc]
+  - [Fetch Data from Internet - Official Doc][fetch-data-official-doc]
+- RESTful API
+  - [Medium Article - Complete Guide][restapi-medium-article]
+- jSON Data Parsing
+  - [Parsing Complex jSON - Medium Article][json-medium-article]
+
+📱 Apps you can try:
+  - [COVID-19 Tracker][covid19-app]
+  - [The Holy Qur'an App][holy-quran-app]
+  - [Music App - Article][music-app]
+  - [News App][news-app]
+
+<p align="center">
+<img height=300 src="https://user-images.githubusercontent.com/43790152/100063536-30c03c00-2e53-11eb-9954-ac65b7ad9893.png" >
+</div>
 
 ## 🛠 State Management
 
@@ -70,7 +97,16 @@ The next big thing you need to learn for Flutter is managing the state. There ar
  - [Redux][redux]
  - [MobX][mobx] and others.
 
-
+[covid19-app]: https://github.com/m-hamzashakeel/Covid19-Tracker-App
+[holy-quran-app]: https://github.com/m-hamzashakeel/The_Holy_Quran_App
+[music-app]: https://medium.com/@ekosuprastyo15/flutter-music-app-example-with-api-deezer-21653239db48
+[news-app]: https://github.com/theindianappguy/FlutterNewsApp
+[json-medium-article]: https://medium.com/flutter-community/parsing-complex-json-in-flutter-747c46655f51
+[restapi-medium-article]: https://medium.com/flutterdevs/using-rest-api-in-flutter-d19e6eb972b8
+[networking-official-doc]: https://flutter.dev/docs/development/data-and-backend/networkings
+[send-data-official-doc]: https://flutter.dev/docs/cookbook/networking/send-data
+[fetch-data-official-doc]: https://flutter.dev/docs/cookbook/networking/fetch-data
+[sqflite-flutter-pkg]: [https://pub.dev/packages/sqflite]
 [vscode-setup-official-docs]: https://flutter.dev/docs/get-started/editor?tab=vscode
 [android-studio-setup-official-docs]: https://flutter.dev/docs/get-started/editor
 [responsive-ui-setup-yt]: https://www.youtube.com/watch?v=z7P1OFLw4kY&ab_channel=FilledStacks
