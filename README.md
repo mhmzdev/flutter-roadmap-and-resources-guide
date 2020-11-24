@@ -13,7 +13,7 @@ A lot of people think ask whether we need to learn **Dart** before starting flut
 - If you are new programmer, you must the knowledge of OOP and Stack in Data structure will be a plus!
 - Otherwise, there is no need to learn Dart specifically its quite similar to Java/C++/C# so you will keep getting it on the way :)
 
-<div style="text-align:center;">
+<div style="text-align:center; width:100%">
 <img align="center" height=300 src="https://user-images.githubusercontent.com/43790152/100061086-58ada080-2e4f-11eb-9961-12234545b333.png" >
 </div>
 
@@ -41,7 +41,7 @@ Starting a complete beginner if you are looking for some Udemy courses or YT pla
 - [Net Ninja YT Playlist - Flutter for Beginners][net-ninja-playlist]
 
 After this, you must have the knowledge as shown below:
-<div style="text-align:center;">
+<div style="text-align:center; width:100%">
 <img align="center" height=300 src="https://user-images.githubusercontent.com/43790152/100061598-1afd4780-2e50-11eb-820f-66b4a79311d3.png" >
 </div>
 
