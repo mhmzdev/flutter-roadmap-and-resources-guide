@@ -2,9 +2,9 @@
 
 I will be sharing a simple roadmap and resources that I use personally for improving my flutter skills. You can obviously figure out your way of learning but here's mine 🙂
 
-🔴 _You must know basic programming to start flutter i.e. Object-Oriented-Programming and Stack in Data structures is a plus!_
-
-
+```
+🔴 _Pre-req to flutter are OOP and Stack in Data structures is a plus!_
+```
 ## 👉 Beginners First
 
 Let's start with if you are beginner. But I will keep on adding stuff alongside which might be helpful for you.
