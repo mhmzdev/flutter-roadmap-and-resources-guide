@@ -53,7 +53,7 @@ Now, you are done with the basics of flutter and its time to up your flutter gam
 - [Firebase Official Doc for Flutter][firebase-flutter-official]
 - [Net Ninja YT Playlist - Flutter & Firebase][net-ninja-firebase-plyalist]
 
-But What if your client asks you store data locally? No problemo! You can learn **[SQFlite][sqflite-flutter-pkg]** quite similart to *sqlite*.
+But What if your client asks you store data locally? No problemo! You can learn **[SQFlite][sqflite-flutter-pkg]** quite similar to *sqlite*.
 <p align="center">
 <img height=300 src="https://user-images.githubusercontent.com/43790152/100063113-7defde00-2e52-11eb-80b2-a9d2e79b21a2.png" >
 </div>
