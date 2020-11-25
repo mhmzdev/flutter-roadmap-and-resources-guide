@@ -158,7 +158,7 @@ Below are the resources which you can use to expand you Flutter knowledge and re
 Copyright (c) 2020 MUHAMMAD HAMZA
 
 ## 🔑 LICENSE
-- This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+- This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
 
 
 
