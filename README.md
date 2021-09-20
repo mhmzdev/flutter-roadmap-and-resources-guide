@@ -149,11 +149,11 @@ Below are the resources which you can use to expand you Flutter knowledge and re
 
 #### Muhammad Hamza 🧑
 [![LinkedIn Link](https://img.shields.io/badge/Connect-Hamza-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
-)](https://www.linkedin.com/in/mhamzadev)
+)](https://www.linkedin.com/in/mhmzdev)
 
 👉 You can also follow my GitHub Profile to stay updated about my latest projects:
 
-[![GitHub Follow](https://img.shields.io/badge/Connect-Hamza-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/m-hamzashakeel)
+[![GitHub Follow](https://img.shields.io/badge/Connect-Hamza-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/mhmzdev)
 
 Copyright (c) 2020 MUHAMMAD HAMZA
 
@@ -162,12 +162,12 @@ Copyright (c) 2020 MUHAMMAD HAMZA
 
 
 
-[live-resume]: https://m-hamzashakeel.github.io
-[linkedin-profile]: https://www.linkedin.com/in/mhamzadev/
-[github-profile]: https://github.com/m-hamzashakeel
-[github-readme]: https://github.com/m-hamzashakeel/m-hamzashakeel
-[covid19-app]: https://github.com/m-hamzashakeel/Covid19-Tracker-App
-[holy-quran-app]: https://github.com/m-hamzashakeel/The_Holy_Quran_App
+[live-resume]: https://mhmz.dev
+[linkedin-profile]: https://www.linkedin.com/in/mhmzdev/
+[github-profile]: https://github.com/mhmzdev
+[github-readme]: https://github.com/mhmzdev/mhmzdev
+[covid19-app]: https://github.com/mhmzdev/Covid19-Tracker-App
+[holy-quran-app]: https://github.com/mhmzdev/The_Holy_Quran_App
 [music-app]: https://medium.com/@ekosuprastyo15/flutter-music-app-example-with-api-deezer-21653239db48
 [news-app]: https://github.com/theindianappguy/FlutterNewsApp
 [json-medium-article]: https://medium.com/flutter-community/parsing-complex-json-in-flutter-747c46655f51
@@ -212,5 +212,5 @@ Copyright (c) 2020 MUHAMMAD HAMZA
 
 [my-stackoverflow]: https://stackoverflow.com/users/12297382/hamza
 [my-github]: https://github.com/m-hamzashakeel
-[my-medium]: https://medium.com/@hamza.6.shakeel
-[my-portfolio]: http://m-hamzashakeel.github.io/
+[my-medium]: https://mhamzadev.medium.com/
+[my-portfolio]: http://mhmz.dev
