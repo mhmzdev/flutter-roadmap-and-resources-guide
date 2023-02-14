@@ -123,6 +123,7 @@ Learning never ends! Keep learning with resources, keep exploring, keep sharing 
 Below are the resources which you can use to expand you Flutter knowledge and research:
 - [Flutter Official Doc][flutterdoc]
 - [ItsAllWidgets][itsallwidges]
+- [Flutter Developer Roadmap][flutter-developer-roadmap]
 - Medium
   - [Flutter Community Medium][medium-flutter-community]
   - [Flutter Medium][medium-flutter-officials]
@@ -209,6 +210,7 @@ Copyright (c) 2020 MUHAMMAD HAMZA
 [awesome-flutter-github]: https://github.com/Solido/awesome-flutter
 [itsallwidges]: https://itsallwidgets.com/
 [fidev]: https://fidev.io/
+[flutter-developer-roadmap]: https://roadmap.sh/flutter
 
 [my-stackoverflow]: https://stackoverflow.com/users/12297382/hamza
 [my-github]: https://github.com/m-hamzashakeel
